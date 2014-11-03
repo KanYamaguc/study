@@ -10,3 +10,6 @@ unity環境構築メモ
 
 Oculusのアカウント登録 [yamakan_67](###)
 
+なんかプロジェクト名が必要、とりあえず"projectR"でさくせい
+
+Oculusの[ログイン画面](https://developer.oculusvr.com/)
