@@ -13,3 +13,6 @@ Oculusのアカウント登録 [yamakan_67](###)
 なんかプロジェクト名が必要、とりあえず"projectR"でさくせい
 
 Oculusの[ログイン画面](https://developer.oculusvr.com/)
+
+
+http://wiki.oculusvr.jp/index.php?%E3%83%87%E3%83%A2
